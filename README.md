@@ -1,7 +1,5 @@
 # 小红书AI助手
-> https://xhs.aicu.icu
-
-小红书AI助手-使用DeepSeek-V3大模型进行数据获取、分析、整理以及导出！
+> 小红书AI助手-使用DeepSeek-V3大模型进行数据获取、分析、整理以及导出！
 
 ![](https://xhs.aicu.icu/screenshots/welcome.png)
 
